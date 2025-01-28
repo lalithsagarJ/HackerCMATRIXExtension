@@ -15,7 +15,8 @@ Rainbow CMATRIX is a visually stunning implementation of the classic CMATRIX eff
 ---
 
 ## Preview
-![Rainbow CMATRIX Preview](preview.png)  
+![Rainbow CMATRIX Preview] <img width="1725" alt="image" src="https://github.com/user-attachments/assets/7873a24c-ff96-4e8c-9574-e4742b715506" />
+ 
 *(Replace with an actual screenshot or GIF of the script in action)*
 
 ---
