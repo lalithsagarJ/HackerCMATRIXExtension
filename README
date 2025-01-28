@@ -1,15 +1,16 @@
 # 🌈 Rainbow CMATRIX
+Authour : Lalith Sagar J
 
 ## Description
-**Rainbow CMATRIX** is a visually stunning implementation of the classic CMATRIX effect with a colorful twist. It creates a dynamic cascade of characters with a smooth rainbow gradient. The script also includes a customizable centered welcome message for an added personal touch.
+Rainbow CMATRIX is a visually stunning implementation of the classic CMATRIX effect with a colorful twist. It creates a dynamic cascade of characters with a smooth rainbow gradient. The script also includes a customizable centered welcome message for an added personal touch.
 
 ---
 
 ## Features
-- **Rainbow Characters**: Displays cascading characters in a beautiful rainbow gradient.
-- **Customizable Welcome Message**: Displays a centered, bold, white welcome message (default: *"Hello Boss, Welcome Back"*).
-- **Responsive Design**: Adapts dynamically to different screen sizes.
-- **Smooth Animation**: Uses an HSL color gradient for fluid transitions and a fading trail effect for characters.
+- Rainbow Characters : Displays cascading characters in a beautiful rainbow gradient.
+- Customizable Welcome Message**: Displays a centered, bold, white welcome message (default: *"Hello Boss, Welcome Back"*).
+- Responsive Design : Adapts dynamically to different screen sizes.
+- Smooth Animation : Uses an HSL color gradient for fluid transitions and a fading trail effect for characters.
 
 ---
 
@@ -22,21 +23,18 @@
 ## Installation
 
 1. Clone the repository or download the project files.
-   ```bash
-   git clone https://github.com/your-username/rainbow-cmatrix.git
-   ```
 2. Open `index.html` in any modern web browser to see the effect.
 
 ---
 
 ## Usage
-- The **welcome message** can be customized in the `drawMessage` function within the script:
-  ```javascript
+- The welcome message can be customized in the `drawMessage` function within the script:
+  ```
   const message = "Your Custom Message Here";
   ```
 
 - The **cascading characters** can be adjusted by editing the `characters` string in the JavaScript:
-  ```javascript
+  ```
   const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   ```
 
