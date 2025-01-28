@@ -1,5 +1,5 @@
 # 🌈 Rainbow CMATRIX
-Authour : Lalith Sagar J
+### **Author : Lalith Sagar J**
 
 ## Description
 *Rainbow CMATRIX* is a visually stunning implementation of the classic CMATRIX effect with a colorful twist. It creates a dynamic cascade of characters with a smooth rainbow gradient. The script also includes a customizable centered welcome message for an added personal touch.
