@@ -23,8 +23,12 @@
 
 ## Installation
 
-1. Clone the repository or download the project files.
-2. Open `index.html` in any modern web browser to see the effect.
+1. Clone the repository
+2. Open Chrome and navigate to chrome://extensions/
+3. Enable Developer mode (top-right corner)
+4. Click Load unpacked and select the folder where you saved the extension (cloned path of this repository)
+5. The extension will load, and you can toggle it on/off to see the changes
+6. Enjoy the cool `cmatrix` effect
 
 ---
 
