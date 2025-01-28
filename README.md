@@ -2,22 +2,22 @@
 Authour : Lalith Sagar J
 
 ## Description
-Rainbow CMATRIX is a visually stunning implementation of the classic CMATRIX effect with a colorful twist. It creates a dynamic cascade of characters with a smooth rainbow gradient. The script also includes a customizable centered welcome message for an added personal touch.
+*Rainbow CMATRIX* is a visually stunning implementation of the classic CMATRIX effect with a colorful twist. It creates a dynamic cascade of characters with a smooth rainbow gradient. The script also includes a customizable centered welcome message for an added personal touch.
 
 ---
 
 ## Features
-- Rainbow Characters : Displays cascading characters in a beautiful rainbow gradient.
-- Customizable Welcome Message**: Displays a centered, bold, white welcome message (default: *"Hello Boss, Welcome Back"*).
-- Responsive Design : Adapts dynamically to different screen sizes.
-- Smooth Animation : Uses an HSL color gradient for fluid transitions and a fading trail effect for characters.
+- **Rainbow Characters** : Displays cascading characters in a beautiful rainbow gradient.
+- **Customizable Welcome Message**: Displays a centered, bold, white welcome message (default: *"Hello Boss, Welcome Back"*).
+- **Responsive Design** : Adapts dynamically to different screen sizes.
+- **Smooth Animation** : Uses an HSL color gradient for fluid transitions and a fading trail effect for characters.
 
 ---
 
 ## Preview
-![Rainbow CMATRIX Preview] <img width="1725" alt="image" src="https://github.com/user-attachments/assets/7873a24c-ff96-4e8c-9574-e4742b715506" />
- 
-*(Replace with an actual screenshot or GIF of the script in action)*
+[Rainbow CMATRIX Preview] 
+
+<img width="1725" alt="image" src="https://github.com/user-attachments/assets/7873a24c-ff96-4e8c-9574-e4742b715506" />
 
 ---
 
